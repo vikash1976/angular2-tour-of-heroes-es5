@@ -4,6 +4,6 @@
 	Just sharing
 ## Usage
 	Download and uzip it.
-	Got ounzipped folder - 
+	Goto unzipped folder - 
 		npm install
 		npm start
