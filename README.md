@@ -2,3 +2,8 @@
 	This repository contains es5 implementation of Angular2 Tour of Heroes example.
 ## Purpose
 	Just sharing
+## Usage
+	Download and uzip it.
+	Got ounzipped folder - 
+		npm install
+		npm start
